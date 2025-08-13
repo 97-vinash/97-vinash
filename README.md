@@ -1,6 +1,7 @@
 <!-- ====== HERO BANNER ====== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:00ff88&text=Avinash%20Shankar&fontAlignY=40&fontColor=00ff88&desc=B.Tech%E2%80%83%7C%E2%80%83CSE%20-%20with%20Specialization%20in%20Cybersecurity&descAlignY=65" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:0a0a0a,5:1a2200,25:445500,50:4a6600,75:445500,95:1a2200,100:0a0a0a&text=Avinash%20Shankar&fontAlignY=40&fontColor=9fef00&desc=B.Tech%E2%80%83%7C%E2%80%83CSE%20-%20with%20Specialization%20in%20Cybersecurity&descAlignY=65&descColor=a6c000" alt="header"/> 
 </p>
 
 <!-- ====== QUICK LINKS ====== -->
@@ -12,7 +13,7 @@
 
 <!-- ====== TERMINAL-TYPING EFFECT ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=940&lines=My+Area+of+Interests+%F0%9F%94%8D;Penetration+Testing+%7C+Programming;Exploit+Development+%7C+Reverse+Engineering" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9fef00&center=true&vCenter=true&width=940&lines=My+Area+of+Interests+%F0%9F%94%8D;Penetration+Testing+%7C+Programming;Exploit+Development+%7C+Reverse+Engineering" alt="typing"/>
 </p>
 
 ---
@@ -71,4 +72,4 @@
 
 ---
 
-<p align="center">💬 <b>Pay attention to rules, they all have loopholes!</b>
+<p align="center">💬 <b>One man’s exploit is another man’s feature!</b>
