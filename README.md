@@ -20,7 +20,7 @@
 
 ### 🎯 Snapshot
 - **CGPA 8.9** (SRM University of Science and Technology, Kattankulathur)    
-- 🇮🇳 Based in India • Open to **SOC Analyst / Pentesting /Application-Security** roles
+- 🇮🇳 Based in India • Open to **SOC Analyst / Pentesting / Application-Security** roles
 
 ---
 
