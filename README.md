@@ -13,7 +13,7 @@
 
 <!-- ====== TERMINAL-TYPING EFFECT ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9fef00&center=true&vCenter=true&width=940&lines=My+Area+of+Interests+%F0%9F%94%8D;Web+Security+%7C+Bug Bounty;Penetration+Testing+%7C+Exploit+Development" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9fef00&center=true&vCenter=true&width=940&lines=My+Area+of+Interests+%F0%9F%94%8D;Web+Security+%7C+Bug Bounty;Penetration+Testing+%7C+Exploit+Development;" alt="typing"/>
 </p>
 
 ---
